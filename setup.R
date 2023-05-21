@@ -1,0 +1,12 @@
+install.packages(
+  c("tidyverse",
+    "rmarkdown",
+    "markdown",
+    "knitr",
+    "quarto",
+    "lintr",
+    "styler",
+    "shiny",
+    "ggtext",
+    "tidymodels")
+)
